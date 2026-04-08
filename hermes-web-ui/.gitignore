@@ -1,0 +1,12 @@
+node_modules/
+.next/
+out/
+dist/
+.env
+certs/
+data/
+__pycache__/
+*.pyc
+.pytest_cache/
+backend/__pycache__/
+backend/**/__pycache__/
